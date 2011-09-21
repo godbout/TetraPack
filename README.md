@@ -13,10 +13,9 @@ No idea. Just poppep up in mind and I think it sounds great, not to say sublime.
 
 # WHAT IS AVAILABLE NOW? #
 
-Nothing. But it is gonna come.
+* a cool macro to add a semicolon (;) at the end of a line and to go to the next line afterward (ok, it's like the command+return on Mac but with adding a (;) at the end of the line)
 
 # WHAT IS COMING NEXT? #
 
-* add semicolon (;) at the end of a line and return to next line
 * go to next closing bracket
 * go to previous opening bracket
