@@ -1,3 +1,7 @@
+# Personal files (no porn) #
+###########################
+TODO.md
+
 # Compiled source #
 ###################
 *.com
@@ -28,7 +32,7 @@
 
 # OS generated files #
 ######################
-.DS_Store?
+.DS_Store
 ehthumbs.db
 Icon?
 Thumbs.db
