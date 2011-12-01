@@ -14,8 +14,10 @@ No idea. Just poppep up in mind and I think it sounds great, not to say sublime.
 # WHAT IS AVAILABLE NOW? #
 
 * a cool macro to add a semicolon (;) at the end of a line and to go to the next line afterward (ok, it's like the command+return on Mac but with adding a (;) at the end of the line)
+* a cool macro to just add a semicolon (;) at the end of a line, WITHOUT going to return. Sounds gay but actually I find it pretty useful in my workflow, when you're correcting something rather than writing a bunch of lines of code.
 
 # WHAT IS COMING NEXT? #
 
 * go to next closing bracket
 * go to previous opening bracket
+* any ideas of what you would find useful?

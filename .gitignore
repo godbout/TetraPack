@@ -1,6 +1,11 @@
 # Personal files (no porn) #
-###########################
+############################
 TODO.md
+
+# Sublime Text 2 files #
+########################
+*.sublime-project
+*.sublime-workspace
 
 # Compiled source #
 ###################
